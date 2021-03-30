@@ -2,5 +2,6 @@
   { "modal": "Bored T-Model", "licence": "xyz-987", "type": "XL" },
   { "modal": "Nova", "licence": "ABC-947", "type": "GT" },
   { "modal": "Bored T-Model", "licence": "ABR-387", "type": "XL" },
-  { "modal": "Nova", "licence": "XTR-907", "type": "GTX" }
+  { "modal": "Nova", "licence": "XTR-907", "type": "GTX" },
+  { "modal": "Bora", "licence": "XDR-307", "type": "MVX" }
 ]
